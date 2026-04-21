@@ -1,0 +1,11 @@
+2026-04-21 16:16:07 Launch
+2026-04-21 16:16:35 search: How to use ChaGPT?
+2026-04-21 16:17:22 Launch
+2026-04-21 16:17:48 search: How to master JAVA?
+2026-04-21 16:18:11 search: How many days are there in a week?
+2026-04-21 16:18:29 search: How many months are there in a year
+2026-04-21 16:18:37 exit
+2026-04-21 16:19:52 Launch
+2026-04-21 16:20:01 search: What is my name?
+2026-04-21 16:20:10 search: what is my school name ?
+2026-04-21 16:20:14 exit
